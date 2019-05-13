@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="textColor">#222</color>
+
+    <color name="colorText">#ffffffff</color>
+    <color name="hintText">#bfffffff</color>
+    <!--注册界面提示红色-->
+    <color name="hintRed">#de4037</color>
+    <color name="blue">#1e50a2</color>
+    <color name="pink">#fa7299</color>
+    <color name="turquoise">#008577</color>
+</resources>
